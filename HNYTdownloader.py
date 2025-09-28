@@ -3,7 +3,7 @@ import subprocess
 import re
 import shutil
 from pathlib import Path
-
+#you need to install yt_dlp and ffmeg by "homebrew" 
 # 언어 설정
 system = input("CMD:KO/KR=[z],EN=[x],TR=[c],Credits(w)Exit(e):").strip().lower()
 if system == "z":  # Korean
