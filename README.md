@@ -2,6 +2,12 @@
 This is YT downloder made by Python and Faster,Better
 # HyperNovaDownloader
 
+# What I need?
+1.Python
+2.yt_dlp
+3.fmegg
+You can install them by HomeBrew(you know If you don't have homebrew first visit https://brew.sh/ )
+
 ## 🌐 프로젝트 개요 / Project Overview / Proje Özeti
 
 **한국어:**  
