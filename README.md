@@ -25,7 +25,7 @@ Just copy to paste for Terminal
 
 
 
-## 🌐 프로젝트 개요 / Project Overview / Proje Özeti
+# 🌐 프로젝트 개요 / Project Overview / Proje Özeti
 
 **한국어:**  
 HyperNovaDownloader는 yt-dlp와 ffmpeg를 활용하여 유튜브 영상을 MP3 또는 MP4로 다운로드할 수 있는 간단한 CLI 툴입니다.
@@ -38,7 +38,7 @@ HyperNovaDownloader, yt-dlp ve ffmpeg kullanarak YouTube videolarını MP3 veya 
 
 ---
 
-## 📂 주요 파일 / Main Files / Ana Dosyalar
+# 📂 주요 파일 / Main Files / Ana Dosyalar
 
 - `HNYTdownloader.py` : 메인 실행 파일 / Main executable file / Ana çalıştırılabilir dosya  
 - `downloads/` : 변환된 파일 저장 폴더 / Folder for converted files / Dönüştürülmüş dosyaların kaydedileceği klasör  
@@ -46,7 +46,7 @@ HyperNovaDownloader, yt-dlp ve ffmpeg kullanarak YouTube videolarını MP3 veya 
 
 ---
 
-## ⚙️ 실행 흐름 / Execution Flow / Çalışma Akışı
+# ⚙️ 실행 흐름 / Execution Flow / Çalışma Akışı
 
 1. 언어 선택 / Language selection / Dil seçimi  
 2. 유튜브 링크 입력 / Enter YouTube link / YouTube bağlantısı girin  
@@ -58,7 +58,7 @@ HyperNovaDownloader, yt-dlp ve ffmpeg kullanarak YouTube videolarını MP3 veya 
 
 ---
 
-## 변환 처리 / Conversion / Dönüştürme
+# 변환 처리 / Conversion / Dönüştürme
 - **MP3 선택:** 오디오만 추출 + 썸네일을 앨범 커버로 삽입  
 - **MP4 선택:** 비디오와 오디오를 합쳐 원본 화질로 저장  
 - **English MP3:** Extract audio only + insert thumbnail as album cover  
@@ -68,7 +68,7 @@ HyperNovaDownloader, yt-dlp ve ffmpeg kullanarak YouTube videolarını MP3 veya 
 
 ---
 
-## 💻 사용 예시 / Usage Example / Kullanım Örneği
+# 💻 사용 예시 / Usage Example / Kullanım Örneği
 
 ```bash
 $ python3 HNYTdownloader.py
