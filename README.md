@@ -1,7 +1,7 @@
 # HyperNovaDownloader_Python-script
 This is YT downloder, made by Python and Faster,Better,Safer
 # HyperNovaDownloader
-![로고 설명]<p align="center">
+<p align="center">
   <img src="https://github.com/HyperNovaSTUDIO/HyperNovaDownloader.-Python-script-/blob/main/logo.png" width="300">
 </p>
 
