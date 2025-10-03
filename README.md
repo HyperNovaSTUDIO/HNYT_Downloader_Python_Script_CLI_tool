@@ -14,6 +14,15 @@ This is YT downloder, made by Python and Faster,Better,Safer
 3.fmegg(https://www.ffmpeg.org/)
 
 **You can install them by HomeBrew(you know If you don't have homebrew, first visit https://brew.sh/ )
+# How To install them?
+## macOS (Python, yt-dlp, FFmpeg)
+
+Just copy to paste for Terminal
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"; brew install python; python3 -m pip install --upgrade pip; python3 -m pip install yt-dlp; brew install ffmpeg; echo '설치 완료:'; python3 --version; yt-dlp --version; ffmpeg -version
+
+
 
 ## 🌐 프로젝트 개요 / Project Overview / Proje Özeti
 
