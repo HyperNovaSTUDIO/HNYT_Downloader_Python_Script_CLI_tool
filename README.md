@@ -20,7 +20,7 @@ This is YT downloder, made by Python and Faster,Better,Safer
 Just copy to paste for Terminal
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"; brew install python; python3 -m pip install --upgrade pip; python3 -m pip install yt-dlp; brew install ffmpeg; echo '설치 완료:'; python3 --version; yt-dlp --version; ffmpeg -version'''
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"; brew install python; python3 -m pip install --upgrade pip; python3 -m pip install yt-dlp; brew install ffmpeg; echo '설치 완료:'; python3 --version; yt-dlp --version; ffmpeg -version```
 
 
 
