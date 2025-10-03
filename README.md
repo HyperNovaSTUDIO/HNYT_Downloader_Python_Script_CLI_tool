@@ -22,6 +22,9 @@ Just copy to paste for Terminal
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"; brew install python; python3 -m pip install --upgrade pip; python3 -m pip install yt-dlp; brew install ffmpeg; echo '설치 완료:'; python3 --version; yt-dlp --version; ffmpeg -version'''
 
+
+
+
 ## 🌐 프로젝트 개요 / Project Overview / Proje Özeti
 
 **한국어:**  
