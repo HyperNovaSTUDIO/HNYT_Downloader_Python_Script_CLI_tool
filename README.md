@@ -1,12 +1,12 @@
-# HyperNovaDownloader.-Python-script-
+# HyperNovaDownloader_Python-script
 This is YT downloder made by Python and Faster,Better
 # HyperNovaDownloader
 
 # What I need?
-1.Python
-2.yt_dlp
-3.fmegg
-You can install them by HomeBrew(you know If you don't have homebrew first visit https://brew.sh/ )
+###1.Python
+###2.yt_dlp
+###3.fmegg
+###You can install them by HomeBrew(you know If you don't have homebrew first visit https://brew.sh/ )
 
 ## 🌐 프로젝트 개요 / Project Overview / Proje Özeti
 
@@ -41,19 +41,7 @@ HyperNovaDownloader, yt-dlp ve ffmpeg kullanarak YouTube videolarını MP3 veya 
 
 ---
 
-## 📝 코드 설명 / Code Explanation / Kod Açıklaması
-
-### run_yt_dlp(fmt)
-- **한국어:** 지정한 포맷(fmt)으로 yt-dlp를 실행하는 함수. 성공 시 True, 실패 시 False 반환  
-- **English:** Runs yt-dlp with the specified format (fmt). Returns True if successful, False otherwise.  
-- **Türkçe:** Belirtilen formatta (fmt) yt-dlp çalıştırır. Başarılı olursa True, aksi takdirde False döner.
-
-### clean_filename(name)
-- **한국어:** 파일 이름에서 특수문자를 제거하고 공백을 `_`로 변환  
-- **English:** Cleans the filename by removing special characters and replacing spaces with `_`.  
-- **Türkçe:** Dosya adındaki özel karakterleri kaldırır ve boşlukları `_` ile değiştirir.
-
-### 변환 처리 / Conversion / Dönüştürme
+## 변환 처리 / Conversion / Dönüştürme
 - **MP3 선택:** 오디오만 추출 + 썸네일을 앨범 커버로 삽입  
 - **MP4 선택:** 비디오와 오디오를 합쳐 원본 화질로 저장  
 - **English MP3:** Extract audio only + insert thumbnail as album cover  
